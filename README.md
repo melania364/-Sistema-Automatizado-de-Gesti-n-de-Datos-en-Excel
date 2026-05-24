@@ -16,7 +16,7 @@ Entrada de Datos → Procesamiento → Consulta y Control
 -Tablas Dinámicas
 -Funciones avanzadas de Excel (Filtrar,Elegir columnas,Unicos)
 -Validación de Datos
-
+______________________________________________________________________________________________________________________
 ⚙️ Funcionalidades Implementadas
 
 📝 Formulario Automatizado
@@ -24,6 +24,9 @@ Entrada de Datos → Procesamiento → Consulta y Control
 -Botones programados con macros VBA.
 -Generación automática de IDs únicos.
 -Validación y limpieza automática de campos.
+
+<img width="772" height="560" alt="image" src="https://github.com/user-attachments/assets/c44e64a1-24c9-4762-b40e-1bed236536be" />
+
 
 🗂️ Gestión de Base de Datos
 
